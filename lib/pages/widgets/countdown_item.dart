@@ -1,4 +1,4 @@
-part of 'import.dart'; // Import the CountdownCompletedEvent
+part of 'import.dart';
 
 class CountdownItem extends StatelessWidget {
   final String gifUrl;
